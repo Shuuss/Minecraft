@@ -1,0 +1,25 @@
+[1126/125910.636:WARNING:alloy_main_delegate.cc(559)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[1126/125910.843:INFO:main_context.cpp(131)] CEF initialized successfully.
+[1126/125910.843:INFO:main_context.cpp(133)] CEF version: 127.3.5+g114ea2a+chromium-127.0.6533.120
+[1126/125916.271:INFO:CONSOLE(1)] "[GamepadNavigation] Initializing gamepad navigation", source: https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js (1)
+[1126/125916.272:INFO:CONSOLE(1)] "[GamepadNavigation] Enabling controller navigation", source: https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js (1)
+[1126/125916.323:INFO:CONSOLE(1)] "[GamepadNavigation] Using default mappings for gamepad navigation", source: https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js (1)
+[1126/125917.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,10]
+[1126/125917.160:INFO:LauncherAppRenderer.cpp(75)] [Info: 2024-11-26 11:59:15.5875415: 0JNlDQ==: LauncherMain.cpp(114)] Initiated models
+[1126/125917.160:INFO:LauncherAppRenderer.cpp(75)] [Info: 2024-11-26 11:59:15.5883123: 0JNlDQ==: LauncherController.cpp(720)] Constructing launcher controller with workDir: C:\...\.minecraft, isActive: 0
+[1126/125917.160:INFO:LauncherAppRenderer.cpp(75)] [Info: 2024-11-26 11:59:15.6005079: 0JNlDQ==: LauncherAppRenderer.cpp(201)] Javascript bridge extended in OnWebKitInitialized.
+[1126/125917.284:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,10]
+[1126/125917.284:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,10]
+[1126/125917.285:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,10]
+[1126/125917.285:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,10]
+[1126/125917.288:INFO:LauncherAppRenderer.cpp(75)] [Info: 2024-11-26 11:59:17.2890226: 0JNlDQ==: LauncherAppRenderer.cpp(376)] OnContextCreated: non-main frame, browser id=2
+[1126/125929.114:INFO:LauncherAppRenderer.cpp(412)] OnContextReleased: no frame (unknown context), browser id=2
+[1126/125929.114:INFO:LauncherAppRenderer.cpp(412)] OnContextReleased: no frame (unknown context), browser id=2
+[1126/125929.115:INFO:LauncherAppRenderer.cpp(412)] OnContextReleased: no frame (unknown context), browser id=2
+[1126/125929.117:INFO:LauncherAppRenderer.cpp(93)] OnBrowserDestroyed: id=2
+[1126/125932.906:INFO:LauncherAppRenderer.cpp(75)] [Info: 2024-11-26 11:59:30.7815057: XkfByg==: LauncherMain.cpp(114)] Initiated models
+[1126/125932.906:INFO:LauncherAppRenderer.cpp(75)] [Info: 2024-11-26 11:59:30.7823030: XkfByg==: LauncherController.cpp(720)] Constructing launcher controller with workDir: C:\...\.minecraft, isActive: 0
+[1126/125932.906:INFO:LauncherAppRenderer.cpp(75)] [Info: 2024-11-26 11:59:30.7929377: XkfByg==: LauncherAppRenderer.cpp(201)] Javascript bridge extended in OnWebKitInitialized.
+[1126/125933.212:INFO:LauncherAppRenderer.cpp(412)] OnContextReleased: no frame (unknown context), browser id=3
+[1126/125933.216:INFO:LauncherAppRenderer.cpp(93)] OnBrowserDestroyed: id=3
+[1126/130021.500:FATAL:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!

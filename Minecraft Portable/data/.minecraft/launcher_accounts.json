@@ -1,0 +1,28 @@
+{
+  "accounts" : {
+    "4b9205f01a1e43c080cc90535a626785" : {
+      "accessToken" : "",
+      "accessTokenExpiresAt" : "2024-11-27T11:59:35Z",
+      "avatar" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPrSURBVHhe7VvLTttAFL0zcRKTQqpCFtAHIFVVl/0AKrWo/8CK32DBHvEdrPiLLvpQpbKo1GWlVqJpUR8CIUHe8aP32jcVccYGPE3SduZIx5d4xtczZ2buHZtEHO7shGAwJFtjYQVgayysAGyNhRWArbH45wUQUmazUMiknQFsjYUVgK2xsAKwNRZWALZTgzJ3X4NhEKQzDEA6mOuLTjq5Hf8nrvCqxy4BtsbCCsDWWEgHI2kWQRVdL3DqCDHSUTsSjNqGZQXqBz71qfpGFG+2ttSxEi+WWGFxaQkcx4lvpIDfaGgJIYSgA3+6PmSlggf1RA6xzT9PTsDz/dRbiLmyq+xZgBdVb1bh7cEB3FtdhcDzuCQGNTzEc9/39qB3fBzl5IkCOydwYGqbm+DUajgSPhfEoME7OzuDx2trcHj4OR5EBeR5twMqNr0+NLpdgGIxUliWSkMUeF6Wy/HopcyOSWDQDpGgdN3INro9aPueso9E7JrASDhKghQ4qhmdoyn2V4DX+0UOYoDkua/qY0zDYQVgaywkZkxQkeDTOsqI7kORP7EGx87olmhpjVM7EozahmU+11X1kShqN2bjGglQGpyrVuHl61ewvLIykgbJeYh1fuzvg4dpEGSBCyYFbDxucOY3NsBZWBhNg1h2jmlw/ek61Ov11DQo3m1vKwUgUK6/NT8f7aZUlajcXbyNz9Ul/JTqZkyI02/72xEE/V40IEnQDDk9PY0GMw3iy+5uZst9upin0QgwTc4+eAhyZia9zjiBS7Tx8QP4nTbKMSoAiUKDpxJnAEnrPIvRxbyuRsmOqfPTIAHbJ2i/omofllEMUPVrQKxlNqwAbI2FtgCUCbKoC5XPiLjGyepCW4Buuw2dZhM6LRVbGKs4WOVEt91S+EU2G5ENAz3/Wt8TpM59OvoKnV5vZDSozMFH1UdPnoFbqVxbCPLn9fvw/sVz7GhLOdp07v6du+Di43mq/0tmifYM8HGHSA1N0meLUsQVc8JL8U+ke2DPuWY+6AdBVJhGIkk8xFYT6GXI70XigWvlh80CbI2FFYBtfmAQogicJB5iq4nYHz65s78kdaEtgFMqQ8l1oVQeZpHPYbjimvlQLKP/hO+LjIKhBvR+L4A3d5dXQaAII+mOPmI57QV0GunhHiMaaZULPN+pH0JIr+9z3mNsMyA+V9YeoWgGqPwji0hd/2OLAQPqQuVzQDxwrfywWYCtsbACsM0PjEG/9+XToCa0BQjwiSzAVDVphmx138Zr/25Q+3sB9GaH/8yDrHf+hMvSpPYMGHxVJi/pPzqq81elLqYfBP/AOtbB9AWYMqwAbI2FFYCtoQD4BShWf3y7smgiAAAAAElFTkSuQmCC",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "inForcedMigration" : false,
+      "legacy" : false,
+      "licenseProductIds" : [],
+      "localId" : "4b9205f01a1e43c080cc90535a626785",
+      "minecraftProfile" : {
+        "id" : "991ea1c090234469a950616b137e556f",
+        "name" : "Shuuss",
+        "requiresProfileNameChange" : false,
+        "requiresSkinChange" : false
+      },
+      "persistent" : true,
+      "remoteId" : "2535467076840631",
+      "type" : "Xbox",
+      "userProperites" : [],
+      "username" : "Shuuss8357"
+    }
+  },
+  "activeAccountLocalId" : "4b9205f01a1e43c080cc90535a626785",
+  "mojangClientToken" : ""
+}
